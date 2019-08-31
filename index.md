@@ -5,10 +5,10 @@ title: <h4>KKKK's Blog<h4>
 <h1>{{ page.title }}</h1>
 <p style="font-size:50px;"align="center">about me</p>
 
-<p style="font-size:36px;color:red;">Writings(latestly):</p>
+<p style="font-size:36px;color:blue;">Writings(latestly):</p>
 <ul style="font-size:25px;">
 　　{% for post in site.posts %}
-　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">&emsp{{ post.title }}</a></li>
+　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">&emsp;{{ post.title }}</a></li>
 　　{% endfor %}
 </ul>
 
