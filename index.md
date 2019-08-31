@@ -1,15 +1,15 @@
 ---
 layout: default
-title: KKKK's Blog
+title: <h3>KKKK's Blog<h3>
 ---
 <h1>{{ page.title }}</h1>
+<h1 style="font-size:50px;"align="center">about me<h1>
 
-<p style="font-size:24px;">Writings:</p>
-<ul>
+<p style="font-size:36px;">Writings:</p>
+<ul style="font-size:25px;">
 　　{% for post in site.posts %}
 　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 　　{% endfor %}
 </ul>
-  
-![~。~](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "what I love")
+
+<a href="https://sm.ms/image/ScnTpqQCoKe2LiM" target="_blank"><img src="https://i.loli.net/2019/08/31/ScnTpqQCoKe2LiM.jpg" ></a>
