@@ -7,7 +7,7 @@ title: chapter2:perceptron by 李航
 ![0_2.png](https://i.loli.net/2019/08/31/VqOYIFQLMedA6N4.png)
 ![0_3.png](https://i.loli.net/2019/08/31/8kKUFe9ghoQ65Mm.png)
 
-<a href="file:///C:/Users/kariokk/Desktop/李航分章节/2.pdf" target="_blank">chapter2</a>  
+<a href="666">Link text</a>
 
 
   
