@@ -12,6 +12,6 @@ title: <h4>KKKK's Blog<h4>
 　　{% endfor %}
 </ul>
 
-<p style="font-size:30px;color:blue;">pics:</p>
+<p style="font-size:30px;color:blue;">Pics:</p>
 
 <a href="https://sm.ms/image/ScnTpqQCoKe2LiM" target="_blank"><img src="https://i.loli.net/2019/08/31/ScnTpqQCoKe2LiM.jpg" height="400" width="800"></a>
